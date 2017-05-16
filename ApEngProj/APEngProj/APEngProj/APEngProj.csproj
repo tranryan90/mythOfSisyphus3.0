@@ -81,6 +81,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\boulder.png" />
+    <Content Include="Content\hill.png" />
+    <Content Include="Content\progress.png" />
+    <Content Include="Content\progressFull.png" />
+    <Content Include="Content\Sisyphus.png" />
     <Content Include="Icon.ico" />
   </ItemGroup>
   <ItemGroup>

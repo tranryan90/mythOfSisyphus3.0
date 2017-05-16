@@ -110,7 +110,7 @@ namespace APEngProj
                 rotation += MathHelper.Pi / 200;
 
                 hillOffset += 1;
-                if (hillOffset == 300)
+                if (hillOffset >= 600 / .9f)
                 {
                     hillOffset = 0;
                 }
@@ -131,7 +131,7 @@ namespace APEngProj
 
             spriteBatch.Begin();
 
-            spriteBatch.Draw(hill, new Vector2(-hillOffset * 8f / 3f, -480 + hillOffset), Color.White);
+            spriteBatch.Draw(hill, new Vector2(-hillOffset * 8f / 3f * .45f, -480 + hillOffset * .45f), Color.White);
             spriteBatch.Draw(boulder, new Vector2(528, 220), new Rectangle(0, 0, 128, 128), Color.White, rotation, new Vector2(64, 64), 1.0f, SpriteEffects.None, 0f);
             sisyphus.Draw(spriteBatch, new Vector2(400, 200));
             spriteBatch.Draw(progressBar, new Vector2(200, 420), Color.White);
