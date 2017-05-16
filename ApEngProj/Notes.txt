@@ -4,3 +4,33 @@ just comment them out for yourself. When you make a change make sure to commit
 and see what changes you do before you sync it. 
 And last tip is if you do work on one of the classes that 
 Im working on make sure to tell me as to not run into errors.
+
+We are going to use git bash to push our changes and such so
+
+First Step- git pull
+  Really important that you make sure before you change anything you pull
+  but also to remember to push everything when you are done
+  
+Second Step- git status 
+  To show what changes have been made and what you need to add
+  red means not added but changed 
+  green means added
+  
+Third Step- git add
+  you can manually add all of the red ones in git status by highlighting them with your
+  mouse then clicking the middle mouse button or just use git add -all/ -a
+  
+Fourth Step- git commit -m ""
+  This allows me and you to see what kind of changes we did when we pushed/ added put what you want to say in the quotes
+  
+Fifth Step- git push
+  ALWAYS push before you go to sleep or are done with the code it makes sure that we dont have conflicts and we dont have to merge branches
+  
+Common mishaps and such and ways to fix
+
+git stash - stashes all your local changes so you can pull, but remeber if its not local youre fucked :(
+(git stash pop- undos the git stash)
+
+git reset -hard [commit number]- if you fuck up hard just messed some simple things and just pushed this is your best friend
+  it help by reset your code to the commmit of which you chose.
+  
