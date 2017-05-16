@@ -1,0 +1,61 @@
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\APEngProj.exe
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\APEngProj.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\obj\x86\Debug\APEngProj.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\obj\x86\Debug\APEngProj.exe
+c:\users\ryan\documents\visual studio 2015\Projects\APEngProj\APEngProj\obj\x86\Debug\APEngProj.pdb
+D:\ApEngProj\APEngProj\APEngProj\obj\x86\Debug\APEngProj.exe
+D:\ApEngProj\APEngProj\APEngProj\obj\x86\Debug\APEngProj.pdb
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\obj\x86\Debug\APEngProj.exe
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\obj\x86\Debug\APEngProj.pdb
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\obj\x86\Debug\APEngProj.csprojResolveAssemblyReference.cache
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\APEngProj.exe
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\APEngProj.pdb
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\Content\Sisyphus.xnb
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\Content\hill.xnb
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\Content\boulder.xnb
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\APEngProj.exe.manifest
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\APEngProj.application
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\obj\x86\Debug\APEngProj.exe.manifest
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\obj\x86\Debug\APEngProj.application
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\Content\progress.xnb
+C:\Users\Me\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\bin\Windows\x86\Debug\Content\progressFull.xnb
+C:\Users\Ryan\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\obj\x86\Debug\APEngProj.exe
+C:\Users\Ryan\Source\Repos\mythOfSisyphus\APEngProj\APEngProj\obj\x86\Debug\APEngProj.pdb

@@ -1,0 +1,6 @@
+So always pull before you do anything to make sure you are up to date 
+and when you are done make sure you push and if you have any errors 
+just comment them out for yourself. When you make a change make sure to commit 
+and see what changes you do before you sync it. 
+And last tip is if you do work on one of the classes that 
+Im working on make sure to tell me as to not run into errors.
