@@ -4,10 +4,10 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Me/Source/Repos/mythOfSisyphus3.0/ApEngProj/APEngProj/APEngProj/Content/Sisyphus.png</File>
-    <File>C:/Users/Me/Source/Repos/mythOfSisyphus3.0/ApEngProj/APEngProj/APEngProj/Content/boulder.png</File>
-    <File>C:/Users/Me/Source/Repos/mythOfSisyphus3.0/ApEngProj/APEngProj/APEngProj/Content/hill.png</File>
-    <File>C:/Users/Me/Source/Repos/mythOfSisyphus3.0/ApEngProj/APEngProj/APEngProj/Content/progress.png</File>
-    <File>C:/Users/Me/Source/Repos/mythOfSisyphus3.0/ApEngProj/APEngProj/APEngProj/Content/progressFull.png</File>
+    <File>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/Sisyphus.png</File>
+    <File>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/boulder.png</File>
+    <File>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/hill.png</File>
+    <File>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/progress.png</File>
+    <File>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/progressFull.png</File>
   </SourceFiles>
 </SourceFileCollection>
