@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/boulder.png</SourceFile>
-  <SourceTime>2017-05-16T21:40:48.6999457-04:00</SourceTime>
-  <DestFile>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/bin/Windows/boulder.xnb</DestFile>
-  <DestTime>2017-05-16T21:43:23.3300777-04:00</DestTime>
+  <SourceFile>C:/Users/Me/Source/Repos/mythOfSisyphus3.0/ApEngProj/APEngProj/APEngProj/Content/boulder.png</SourceFile>
+  <SourceTime>2017-05-13T20:15:26.4647667-04:00</SourceTime>
+  <DestFile>C:/Users/Me/Source/Repos/mythOfSisyphus3.0/ApEngProj/APEngProj/APEngProj/Content/bin/Windows/boulder.xnb</DestFile>
+  <DestTime>2017-05-16T23:44:12.4546829-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

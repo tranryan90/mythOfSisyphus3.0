@@ -50,7 +50,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4QBhU3DE85nDj4vNLsEqmEeDmeYfr6Z12eVxQitNnH0=</dsig:DigestValue>
+        <dsig:DigestValue>DwAXvdw8KGltftgk8Hgw+0ZKQgyrWzyC2oZkqpn4fOY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -234,13 +234,13 @@
       <dsig:DigestValue>SaVj8IQyfypI3FPES5NISA0juY6WwlHHLToaHKx7C9I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\Sisyphus.png" size="3613">
+  <file name="Content\Sisyphus.png" size="3623">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>fheBcrEqUfAJMh64hGJen4OxYmgEziHbyxRM25yMdsM=</dsig:DigestValue>
+      <dsig:DigestValue>nIPX95wmoO4+lLqQWpDAdK1THXAIaRbkYVlEefsDZeM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\Sisyphus.xnb" size="262229">
@@ -249,7 +249,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>NJRw37tBPVKMV2HSghm0hezL+PYcWo0VMUhBQ9029P4=</dsig:DigestValue>
+      <dsig:DigestValue>jkkEK94YcoM5aLSguZzR5uAWX0b1+bFP65eraoYv4vc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Icon.ico" size="147541">

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/hill.png</SourceFile>
-  <SourceTime>2017-05-16T21:40:48.7019432-04:00</SourceTime>
-  <DestFile>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/bin/Windows/hill.xnb</DestFile>
-  <DestTime>2017-05-16T21:43:23.6227859-04:00</DestTime>
+  <SourceFile>C:/Users/Me/Source/Repos/mythOfSisyphus3.0/ApEngProj/APEngProj/APEngProj/Content/hill.png</SourceFile>
+  <SourceTime>2017-05-13T21:33:17.8839566-04:00</SourceTime>
+  <DestFile>C:/Users/Me/Source/Repos/mythOfSisyphus3.0/ApEngProj/APEngProj/APEngProj/Content/bin/Windows/hill.xnb</DestFile>
+  <DestTime>2017-05-16T23:44:12.9147092-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

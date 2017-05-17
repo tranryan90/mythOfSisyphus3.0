@@ -107,7 +107,7 @@ namespace APEngProj
                 progress += gameTime.ElapsedGameTime.Milliseconds;
                 sisyphus.Update();
 
-                rotation += MathHelper.Pi / 200;
+                rotation += MathHelper.Pi / 150;
 
                 hillOffset += 1;
                 if (hillOffset >= 600 / .9f)
