@@ -123,5 +123,9 @@ D:\mythOfSisy\ApEngProj\APEngProj\APEngProj\bin\Windows\x86\Debug\SharpDX.Direct
 D:\mythOfSisy\ApEngProj\APEngProj\APEngProj\obj\x86\Debug\APEngProj.csprojResolveAssemblyReference.cache
 D:\mythOfSisy\ApEngProj\APEngProj\APEngProj\obj\x86\Debug\APEngProj.exe.manifest
 D:\mythOfSisy\ApEngProj\APEngProj\APEngProj\obj\x86\Debug\APEngProj.application
+<<<<<<< HEAD
 D:\mythOfSisy\ApEngProj\APEngProj\APEngProj\bin\Windows\x86\Debug\Content\Exist.wma
 D:\mythOfSisy\ApEngProj\APEngProj\APEngProj\bin\Windows\x86\Debug\Content\Exist.xnb
+=======
+C:\Users\Me\Source\Repos\mythOfSisyphus3.0\ApEngProj\APEngProj\APEngProj\bin\Windows\x86\Debug\Content\gameOver.xnb
+>>>>>>> 9450d1bf4485ea80d2b4fc86527715dd2028e62e
