@@ -83,11 +83,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\boulder.png" />
-<<<<<<< HEAD
+
     <Content Include="Content\Exist.mp3" />
-=======
+
     <Content Include="Content\gameOver.png" />
->>>>>>> 9450d1bf4485ea80d2b4fc86527715dd2028e62e
+
     <Content Include="Content\hill.png" />
     <Content Include="Content\progress.png" />
     <Content Include="Content\progressFull.png" />
