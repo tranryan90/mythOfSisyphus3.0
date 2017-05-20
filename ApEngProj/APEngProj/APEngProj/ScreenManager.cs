@@ -108,6 +108,8 @@ namespace APEngProj
                 {
                     mode = "game";
                 }
+
+                oldState = newState;
             }
             if (mode == "game")
             {
@@ -166,6 +168,7 @@ namespace APEngProj
             }
             else if (mode == "reset")
             {
+                oldState = new KeyboardState();
                 rotation = 0;
                 hillOffset = 0;
                 progress = 0;
