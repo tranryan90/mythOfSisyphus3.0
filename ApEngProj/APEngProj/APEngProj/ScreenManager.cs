@@ -60,6 +60,7 @@ namespace APEngProj
             progress = 0;
             boulderOffset = 0;
             gameOverCounter = 0;
+            timeSinceSpace = 0;
             mode = "start";
         }
 
@@ -117,14 +118,14 @@ namespace APEngProj
             {
                 newState = Keyboard.GetState();
 
-                if (newState.IsKeyDown(Keys.Space))
+                if (oldState.IsKeyUp(Keys.Space) && newState.IsKeyDown(Keys.Space))
                 {
                     mode = "game";
                 }
 
                 oldState = newState;
             }
-            if (mode == "game")
+            else if (mode == "game")
             {
                 newState = Keyboard.GetState();
 
@@ -181,12 +182,12 @@ namespace APEngProj
             }
             else if (mode == "reset")
             {
-                oldState = new KeyboardState();
                 rotation = 0;
                 hillOffset = 0;
                 progress = 0;
                 boulderOffset = 0;
                 gameOverCounter = 0;
+                timeSinceSpace = 0;
                 mode = "start";
             }
 
@@ -210,7 +211,7 @@ namespace APEngProj
                 spriteBatch.Draw(progressBar, new Vector2(200, 420), Color.White);
                 spriteBatch.Draw(progressBarFull, new Vector2(200, 420), new Rectangle(0, 0, (int)(progress / 60000f * 400f), 20), Color.White);
             }
-            if (mode == "game")
+            else if (mode == "game")
             {
                 spriteBatch.Draw(hill, new Vector2(-hillOffset * 8f / 3f * .45f, -480 + hillOffset * .45f), Color.White);
                 spriteBatch.Draw(boulder, new Vector2(528, 220), new Rectangle(0, 0, 128, 128), Color.White, rotation, new Vector2(64, 64), 1.0f, SpriteEffects.None, 0f);
