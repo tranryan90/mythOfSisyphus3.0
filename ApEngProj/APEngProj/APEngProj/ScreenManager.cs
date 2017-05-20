@@ -113,18 +113,7 @@ namespace APEngProj
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
-<<<<<<< HEAD
-            newState = Keyboard.GetState();
-
-            if (oldState.IsKeyUp(Keys.Space) && newState.IsKeyDown(Keys.Space))
-            {
-                timeSinceSpace = 0;
-
-            }
-            else if (oldState == newState)
-=======
             if (mode == "start")
->>>>>>> 9450d1bf4485ea80d2b4fc86527715dd2028e62e
             {
                 newState = Keyboard.GetState();
 
@@ -165,38 +154,6 @@ namespace APEngProj
                 {
                     mode = "falling";
                 }
-<<<<<<< HEAD
-                if (progress == 50000)
-                {
-                    hillOffset = 0;
-                    progress = 0;
-                }
-            }
-             if (timeSinceSpace >= 450)
-            {
-                progress -= gameTime.ElapsedGameTime.Milliseconds;
-                sisyphus.Update();
-
-                rotation -= MathHelper.Pi / 150;
-
-                hillOffset += 1;
-                if (hillOffset >= 600 / .9f)
-                {
-                    hillOffset = 0;
-                }
-                //need to fix this so the hill can move down
-                /*else if (hillOffset >= -600 / .9f)
-                {
-                    hillOffset = 0;
-                }
-                */
-                if (progress <= 0)
-                {
-                    progress = 0;
-                }
-            }
-=======
->>>>>>> 9450d1bf4485ea80d2b4fc86527715dd2028e62e
 
                 if (progress >= 59000)
                 {
