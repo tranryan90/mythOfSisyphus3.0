@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="APEngProj.exe" size="159120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="APEngProj.exe" size="160656">
       <assemblyIdentity name="APEngProj" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DwAXvdw8KGltftgk8Hgw+0ZKQgyrWzyC2oZkqpn4fOY=</dsig:DigestValue>
+        <dsig:DigestValue>d9xGAAl4/2gs6Om/jxpUgSiCVWWIadA9i+hMsNht3ow=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -178,6 +178,24 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>bz3DpY5JOmI3s73VMhrYaghavZ35ImtjuYYTfnhlems=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\gameOver.png" size="2309">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>y4PfSKEg/66mT1teh3GiizvAFZ+R67hwb5S6RZK8p+8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\gameOver.xnb" size="1536085">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>zHV7ZmAAUSmL1D7yhnnhPCRitWRhLhwHGBZo2W4HkOk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\hill.png" size="7971">
