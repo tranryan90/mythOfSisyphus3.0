@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Me/Source/Repos/mythOfSisyphus3.0/ApEngProj/APEngProj/APEngProj/Content/Sisyphus.png</SourceFile>
-  <SourceTime>2017-05-16T23:51:41.20535-04:00</SourceTime>
-  <DestFile>C:/Users/Me/Source/Repos/mythOfSisyphus3.0/ApEngProj/APEngProj/APEngProj/Content/bin/Windows/Sisyphus.xnb</DestFile>
-  <DestTime>2017-05-16T23:51:44.8155565-04:00</DestTime>
+  <SourceFile>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/Sisyphus.png</SourceFile>
+  <SourceTime>2017-05-19T17:52:02.6024495-04:00</SourceTime>
+  <DestFile>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/bin/Windows/Sisyphus.xnb</DestFile>
+  <DestTime>2017-05-19T18:10:05.7198604-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

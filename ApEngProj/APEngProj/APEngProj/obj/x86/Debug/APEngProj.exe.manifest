@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="APEngProj.exe" size="159120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="APEngProj.exe" size="159632">
       <assemblyIdentity name="APEngProj" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DwAXvdw8KGltftgk8Hgw+0ZKQgyrWzyC2oZkqpn4fOY=</dsig:DigestValue>
+        <dsig:DigestValue>s4yAvV6kzuzzcke7+v2BbrfQ55cHMiSNvYEYnE+6vVo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -178,6 +178,33 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>bz3DpY5JOmI3s73VMhrYaghavZ35ImtjuYYTfnhlems=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Exist.mp3" size="988752">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>EG2f6JZQh0VbgGvokJ7AbpmeidJSbi7WYWFrq874/pg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Exist.wma" size="1421468">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6/2FX0+arvpJnvh94mNUaBSM06wGCYXhFp5BtuHpqUk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Exist.xnb" size="123">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fp7DfLtT40mFDq4E3Nmas9BU7peFwJUes1egoAQ31uA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\hill.png" size="7971">

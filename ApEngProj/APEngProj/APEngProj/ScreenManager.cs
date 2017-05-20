@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
+using System.Threading;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.Audio;
+using Microsoft.Xna.Framework.Media;
 
 namespace APEngProj
 {
@@ -29,6 +31,8 @@ namespace APEngProj
         public static float timeSinceSpace;
         public static float progress;
         public static Dictionary<string, Screen> Screens;
+        Song bgSong;
+        
 
         public ScreenManager()
         {
@@ -61,7 +65,7 @@ namespace APEngProj
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             //Where we are gonna add event handling
-
+            this.bgSong = Content.Load<Song>("Exist");
             Content = base.Content;
             //Adding screens to the dictionary
 
@@ -73,6 +77,15 @@ namespace APEngProj
             progressBar = Content.Load<Texture2D>("progress");
             progressBarFull = Content.Load<Texture2D>("progressFull");
 
+            MediaPlayer.Play(bgSong);
+            MediaPlayer.IsRepeating = true;
+            MediaPlayer.MediaStateChanged += MediaPlayer_MediaStateChanged;
+        }
+
+        void MediaPlayer_MediaStateChanged(object sender, System.EventArgs e)
+        {
+            MediaPlayer.Volume -= 0.1f;
+            MediaPlayer.Play(bgSong);
         }
 
         /// <summary>
@@ -97,7 +110,9 @@ namespace APEngProj
             if (oldState.IsKeyUp(Keys.Space) && newState.IsKeyDown(Keys.Space))
             {
                 timeSinceSpace = 0;
-            } else
+
+            }
+            else if (oldState == newState)
             {
                 timeSinceSpace += gameTime.ElapsedGameTime.Milliseconds;
             }
@@ -113,6 +128,34 @@ namespace APEngProj
                 if (hillOffset >= 600 / .9f)
                 {
                     hillOffset = 0;
+                }
+                if (progress == 50000)
+                {
+                    hillOffset = 0;
+                    progress = 0;
+                }
+            }
+             if (timeSinceSpace >= 450)
+            {
+                progress -= gameTime.ElapsedGameTime.Milliseconds;
+                sisyphus.Update();
+
+                rotation -= MathHelper.Pi / 150;
+
+                hillOffset += 1;
+                if (hillOffset >= 600 / .9f)
+                {
+                    hillOffset = 0;
+                }
+                //need to fix this so the hill can move down
+                /*else if (hillOffset >= -600 / .9f)
+                {
+                    hillOffset = 0;
+                }
+                */
+                if (progress <= 0)
+                {
+                    progress = 0;
                 }
             }
 

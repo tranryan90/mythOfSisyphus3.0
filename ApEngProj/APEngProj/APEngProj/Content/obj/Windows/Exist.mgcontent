@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/Exist.mp3</SourceFile>
+  <SourceTime>2017-05-19T23:13:52.9177537-04:00</SourceTime>
+  <DestFile>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/bin/Windows/Exist.xnb</DestFile>
+  <DestTime>2017-05-19T23:15:33.9281884-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/mythOfSisy/ApEngProj/APEngProj/APEngProj/Content/bin/Windows/Exist.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

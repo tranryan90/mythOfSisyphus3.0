@@ -73,3 +73,9 @@
 /processorParam:TextureFormat=Color
 /build:progressFull.png
 
+#begin Exist.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Exist.mp3
+

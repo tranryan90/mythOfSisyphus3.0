@@ -83,6 +83,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\boulder.png" />
+    <Content Include="Content\Exist.mp3" />
     <Content Include="Content\hill.png" />
     <Content Include="Content\progress.png" />
     <Content Include="Content\progressFull.png" />
