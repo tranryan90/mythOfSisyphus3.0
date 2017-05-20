@@ -73,13 +73,13 @@
 /processorParam:TextureFormat=Color
 /build:progressFull.png
 
-<<<<<<< HEAD
+
 #begin Exist.mp3
 /importer:Mp3Importer
 /processor:SongProcessor
 /processorParam:Quality=Best
 /build:Exist.mp3
-=======
+
 #begin gameOver.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -91,5 +91,4 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:gameOver.png
->>>>>>> 9450d1bf4485ea80d2b4fc86527715dd2028e62e
 

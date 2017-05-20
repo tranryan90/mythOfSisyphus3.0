@@ -43,22 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-<<<<<<< HEAD
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="APEngProj.exe" size="159632">
-=======
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="APEngProj.exe" size="160656">
->>>>>>> 9450d1bf4485ea80d2b4fc86527715dd2028e62e
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="APEngProj.exe" size="161168">
       <assemblyIdentity name="APEngProj" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-<<<<<<< HEAD
-        <dsig:DigestValue>s4yAvV6kzuzzcke7+v2BbrfQ55cHMiSNvYEYnE+6vVo=</dsig:DigestValue>
-=======
-        <dsig:DigestValue>Gi/C6tEjl4IUhUKuH3M87VWIr1DxjbVeBVIeBXO/SBU=</dsig:DigestValue>
->>>>>>> 9450d1bf4485ea80d2b4fc86527715dd2028e62e
+        <dsig:DigestValue>yQq+bgQvHN/LSI+toFzGvJijbHfEP44KJlqghJ7U0Ns=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -188,33 +180,21 @@
       <dsig:DigestValue>bz3DpY5JOmI3s73VMhrYaghavZ35ImtjuYYTfnhlems=</dsig:DigestValue>
     </hash>
   </file>
-<<<<<<< HEAD
   <file name="Content\Exist.mp3" size="988752">
-=======
-  <file name="Content\gameOver.png" size="2309">
->>>>>>> 9450d1bf4485ea80d2b4fc86527715dd2028e62e
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-<<<<<<< HEAD
       <dsig:DigestValue>EG2f6JZQh0VbgGvokJ7AbpmeidJSbi7WYWFrq874/pg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\Exist.wma" size="1421468">
-=======
-      <dsig:DigestValue>y4PfSKEg/66mT1teh3GiizvAFZ+R67hwb5S6RZK8p+8=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Content\gameOver.xnb" size="1536085">
->>>>>>> 9450d1bf4485ea80d2b4fc86527715dd2028e62e
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-<<<<<<< HEAD
       <dsig:DigestValue>6/2FX0+arvpJnvh94mNUaBSM06wGCYXhFp5BtuHpqUk=</dsig:DigestValue>
     </hash>
   </file>
@@ -225,9 +205,24 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>fp7DfLtT40mFDq4E3Nmas9BU7peFwJUes1egoAQ31uA=</dsig:DigestValue>
-=======
+    </hash>
+  </file>
+  <file name="Content\gameOver.png" size="2309">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>y4PfSKEg/66mT1teh3GiizvAFZ+R67hwb5S6RZK8p+8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\gameOver.xnb" size="1536085">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>zHV7ZmAAUSmL1D7yhnnhPCRitWRhLhwHGBZo2W4HkOk=</dsig:DigestValue>
->>>>>>> 9450d1bf4485ea80d2b4fc86527715dd2028e62e
     </hash>
   </file>
   <file name="Content\hill.png" size="7971">
